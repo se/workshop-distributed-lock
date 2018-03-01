@@ -7,7 +7,7 @@ This Repository is example about distributed lock and how to implement it.
 - Distributed Lock with MongoDb
 - Distributed Lock with File System (Just testing purposes.)
 
-Examples is just for test purposes and understanding the usage.
+Examples are just for test purposes and understanding the usage.
 
 ### About
 
